@@ -1,0 +1,123 @@
+[
+  {
+    "id": 0,
+    "title": "Airpods Pro White",
+    "category": "Electronis",
+    "author": "EShop",
+    "img": "Airpods",
+    "price": 1999,
+    "sales": 15,
+    "feedback": 5,
+    "feedback_count": 10
+  },
+  {
+    "id": 1,
+    "title": "Macbook Pro Whit 13'' ",
+    "category": "Electronics",
+    "author": "EShop",
+    "img": "Macbook",
+    "price": 1999,
+    "sales": 15,
+    "feedback": 5,
+    "feedback_count": 10
+  },
+  {
+    "id": 2,
+    "title": "Joystick Game Controller",
+    "category": "Electronics",
+    "author": "EShop",
+    "img": "Gamepad",
+    "price": 1999,
+    "sales": 15,
+    "feedback": 5,
+    "feedback_count": 10
+  },
+  {
+    "id": 3,
+    "title": "Mavic Air drone",
+    "category": "Electronics",
+    "author": "EShop",
+    "img": "Drone",
+    "price": 1999,
+    "sales": 15,
+    "feedback": 5,
+    "feedback_count": 10
+  },
+  {
+    "id": 4,
+    "title": "Nicon D7500",
+    "category": "Electronics",
+    "author": "EShop",
+    "img": "Camera",
+    "price": 1999,
+    "sales": 15,
+    "feedback": 5,
+    "feedback_count": 10
+  },
+  {
+    "id": 5,
+    "title": "Apple Imac",
+    "category": "Electronics",
+    "author": "EShop",
+    "img": "Imac",
+    "price": 1999,
+    "sales": 15,
+    "feedback": 5,
+    "feedback_count": 10
+  },
+  {
+    "id": 6,
+    "title": "Iphone XS 265GB",
+    "category": "Electronics",
+    "author": "EShop",
+    "img": "Iphone",
+    "price": 1999,
+    "sales": 15,
+    "feedback": 5,
+    "feedback_count": 10
+  },
+  {
+    "id": 7,
+    "title": "TP-Link modem",
+    "category": "Electronics",
+    "author": "EShop",
+    "img": "Modem",
+    "price": 1999,
+    "sales": 15,
+    "feedback": 5,
+    "feedback_count": 10
+  },
+  {
+    "id": 8,
+    "title": "Sony Headphones",
+    "category": "Electronics",
+    "author": "EShop",
+    "img": "Headphones",
+    "price": 1999,
+    "sales": 15,
+    "feedback": 5,
+    "feedback_count": 10
+  },
+  {
+    "id": 9,
+    "title": "Adidas Summer shoes",
+    "category": "Clothes",
+    "author": "EShop",
+    "img": "shoes",
+    "price": 1999,
+    "sales": 15,
+    "feedback": 5,
+    "feedback_count": 10
+  },
+  {
+    "id": 10,
+    "title": "Nike Summer shoes",
+    "category": "Clothes",
+    "author": "EShop",
+    "img": "shoes_2",
+    "price": 1999,
+    "sales": 15,
+    "feedback": 5,
+    "feedback_count": 10
+  }
+]

@@ -1,0 +1,14 @@
+.customscrollbar::-webkit-scrollbar-track {
+  background-color: red;
+}
+
+/* Custom scrollbar thumb */
+.customscrollbar::-webkit-scrollbar-thumb {
+  background-color: red;
+  border-radius: 5px;
+}
+
+/* Custom scrollbar thumb on hover */
+.customscrollbar::-webkit-scrollbar-thumb:hover {
+  background-color: red;
+}
